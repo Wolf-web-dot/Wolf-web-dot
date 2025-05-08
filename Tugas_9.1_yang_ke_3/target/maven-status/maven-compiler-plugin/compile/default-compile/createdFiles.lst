@@ -1,0 +1,10 @@
+com\example\bdsqltester\scenes\admin\AdminController.class
+com\example\bdsqltester\HelloApplication.class
+com\example\bdsqltester\dtos\User.class
+com\example\bdsqltester\scenes\admin\AdminController$1.class
+module-info.class
+com\example\bdsqltester\dtos\Grade.class
+com\example\bdsqltester\dtos\Assignment.class
+com\example\bdsqltester\scenes\LoginController.class
+com\example\bdsqltester\datasources\MainDataSource.class
+com\example\bdsqltester\datasources\GradingDataSource.class
